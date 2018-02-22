@@ -1,0 +1,7 @@
+.git*
+.dockerignore
+classification_csv/.gitignore
+classification_image/.gitignore
+Dockerfile
+*.log*
+*.py[cod]
